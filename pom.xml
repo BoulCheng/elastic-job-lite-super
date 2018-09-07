@@ -11,6 +11,7 @@
   <modules>
     <module>elastic-job-common-core</module>
     <module>elastic-job-lite-core-millis</module>
+    <module>elastic-job-lite-core</module>
   </modules>
 
   <name>elastic-job-lite-super</name>
