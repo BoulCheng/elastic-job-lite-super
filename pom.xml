@@ -4,6 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+  <!--deploy时先deploy elastic-job-lite-super，再deploy elastic-job-lite-super的子模块-->
   <groupId>com.zlb</groupId>
   <artifactId>elastic-job-lite-super</artifactId>
   <packaging>pom</packaging>
